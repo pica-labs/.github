@@ -1,6 +1,6 @@
 # Picachain
 
-### ⚡️ Build quick image based LLM pipelines for your applications. 
+### ⚡️ Build quick LLM pipelines for your application 
 
 - Build Image search engines with well known vector databases such as **ChromaDB** and **Pinecone**.
 - Create image generation chains using **Stable Diffusion**. 
